@@ -1,6 +1,6 @@
 # Awesome flow fucntions
 
-This list of flow function is sorted by the SaaS/event triggeredt the flow.
+This list of flow function is sorted by the SaaS/event triggered the flow.
 
 * [Airtable](#artiable)
 * [GitHub](#github)
