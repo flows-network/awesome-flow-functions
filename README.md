@@ -7,6 +7,7 @@ This list of flow function is sorted by the SaaS/event triggered the flow.
 * [OpenAI](#openai)
 * [Slack](#slack)
 * [SendGrid](#sendgrid)
+* [Telegram](#telegram)
 * [Twitter](#twitter)
 * [Store](#store)
 * [Schedule](#schedule)
@@ -25,12 +26,19 @@ This list of flow function is sorted by the SaaS/event triggered the flow.
 |  GitHub, OpenAI |  A ChatGPT GitHub bot to answer every issue comment  |  [Fork here](https://github.com/flows-network/chatgpt-github-app)   |
 |  GitHub, Slack |  Integrate ChatGPT into your Salck channel  |  [Fork here](https://github.com/flows-network/collaborative-chat)   |
 |  GitHub, Slack |  A ChatGPT Slack bot to answer your legal question |  [Fork here](https://github.com/flows-network/robo-lawyer/)   |
+|  GitHub |  React to each issue comment with 🚀 |  [Fork here](https://github.com/flows-network/github-issue-replier)   |
 
 ## Slack
 
 | The required SaaS integrations | Description | Source code |
 |--------------------------------|-------------|-------------|
-|  Slack |  A stateful calculator Slack bot   |  [Fork here](https://github.com/flows-network/chatgpt-github-app)   |
+|  Slack |  A stateful calculator Slack bot   |  [Fork here](https://github.com/flows-network/slack-calculator)   |
+|  Slack, OpenAI |  Integrate ChatGPT into your Salck channel  |  [Fork here](https://github.com/flows-network/collaborative-chat)   |
+|  Slack, OpenAI |  A ChatGPT Slack bot to answer your legal question |  [Fork here](https://github.com/flows-network/robo-lawyer/)   |
 
 
+## Telegram
 
+| The required SaaS integrations | Description | Source code |
+|--------------------------------|-------------|-------------|
+|  Telegram, OpenAI |  A ChatGPT Telegram bot   |  [Fork here](https://github.com/flows-network/telegram-gpt)   |
