@@ -27,6 +27,7 @@ This list of flow function is sorted by the SaaS/event triggered the flow.
 |  GitHub, Slack |  Integrate ChatGPT into your Salck channel  |  [Fork here](https://github.com/flows-network/collaborative-chat)   |
 |  GitHub, Slack |  A ChatGPT Slack bot to answer your legal question |  [Fork here](https://github.com/flows-network/robo-lawyer/)   |
 |  GitHub |  React to each issue comment with 🚀 |  [Fork here](https://github.com/flows-network/github-issue-replier)   |
+|  GitHub, Slack, Airtable |  When someone forks your GitHub repo, you will get a Slack message, meawhile this fork record is saved to a form on Airtable. |  [Fork here](https://github.com/flows-network/github-fork-notifier)   |
 
 ## Slack
 
@@ -42,3 +43,17 @@ This list of flow function is sorted by the SaaS/event triggered the flow.
 | The required SaaS integrations | Description | Source code |
 |--------------------------------|-------------|-------------|
 |  Telegram, OpenAI |  A ChatGPT Telegram bot   |  [Fork here](https://github.com/flows-network/telegram-gpt)   |
+
+## Schedule
+
+
+| The required SaaS integrations | Description | Source code |
+|--------------------------------|-------------|-------------|
+|  Slack |  Send Hackernews posts to Slack based on your interests  |  [Fork here](https://github.com/flows-network/hackernews-alert)  |
+
+## Lambda
+
+| The required SaaS integrations | Description | Source code |
+|--------------------------------|-------------|-------------|
+|  None| Weather lookup  |  [Fork here](https://github.com/flows-network/weather-lookup)  |
+
