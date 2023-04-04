@@ -15,6 +15,7 @@
 This list of flow function is sorted by the SaaS/event triggered the flow. You're also welcome to submit your function here so that the community can grow together.
 
 * [Airtable](#artiable)
+* [Discord](#discord)
 * [GitHub](#github)
 * [OpenAI](#openai)
 * [Slack](#slack)
@@ -31,10 +32,18 @@ This list of flow function is sorted by the SaaS/event triggered the flow. You'r
 |--------------------------------|-------------|-------------|
 |     WIP                           |             |             |
 
+
+## Discord
+
+| The required SaaS integrations | Description | Source code |
+|--------------------------------|-------------|-------------|
+|  Discord, OpenAI |  Integrate ChatGPT into your Discord server  |  [Fork here](https://github.com/flows-network/discord-chatgpt)   |
+
 ## GitHub
 
 | The required SaaS integrations | Description | Source code |
 |--------------------------------|-------------|-------------|
+|  GitHub, OpenAI |  GitHub Pull Request review & summary 🤖 using ChatGPT/4  |  [Fork here](https://github.com/flows-network/github-pr-summary)   |
 |  GitHub, OpenAI |  A ChatGPT GitHub bot to answer every issue comment  |  [Fork here](https://github.com/flows-network/chatgpt-github-app)   |
 |  GitHub, OpenAI |  Integrate ChatGPT into your Salck channel  |  [Fork here](https://github.com/flows-network/collaborative-chat)   |
 |  GitHub, OpenAI |  A ChatGPT Slack bot to answer your legal question |  [Fork here](https://github.com/flows-network/robo-lawyer/)   |
