@@ -53,6 +53,7 @@ This list of flow function is sorted by the SaaS/event triggered the flow. You'r
 |  GitHub |  If the Action fails on your GitHub repo,  then create an issue on your repo. |  [Fork here](https://github.com/flows-network/create-github-issue-workflow-fails/)   |
 |  GitHub, Slack |   send a Slack message every time your GitHub repo get 10 more stars. |  [Fork here](https://github.com/flows-network/github-star-slack-messenger)   |
 |  GitHub, Slack |   send a Slack message when a github issue is labeled with good first issue. |  [Fork here](https://github.com/flows-network/github-issue-notifer)   |
+|  GitHub, Slack |   send a Slack message when a github issue didn't get any response in the designated time. |  [Fork here](https://github.com/flows-network/follow-up-github-issue)   |
 |  GitHub, Sendgrid |   send an email to the contributor when the PR is merged. |  [Fork here](https://github.com/flows-network/pr-merge-notifier)   |
 
 ## Slack
