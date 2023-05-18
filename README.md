@@ -1,4 +1,4 @@
-# <p align="center">Awesome flow fucntions</p>
+# <p align="center">Awesome flow functions</p>
 
 <p align="center">
   <a href="https://discord.gg/ccZn9ZMfFf">
